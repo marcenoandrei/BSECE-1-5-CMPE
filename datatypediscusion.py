@@ -177,7 +177,7 @@ print(multiply(5, 25))
 print(qout(5, 25))
 
 
-'''
+
 name  = "magic jhonson"
 if name  == "luka doncic":
     print("basketball player")
